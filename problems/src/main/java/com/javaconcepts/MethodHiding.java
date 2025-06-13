@@ -1,7 +1,5 @@
 package com.javaconcepts;
 
-import java.util.PriorityQueue;
-
 public class MethodHiding {
     public static void main(String[] args) {
         Parent obj = new Child();
