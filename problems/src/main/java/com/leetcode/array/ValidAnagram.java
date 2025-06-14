@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.array;
 
 public class ValidAnagram {
     public static void main(String[] args) {
